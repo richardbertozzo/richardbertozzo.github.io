@@ -3,16 +3,16 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Richard Bertozzo',
+  subtitle: 'Software Engineer',
   copyright: '© All rights reserved.',
-  disqusShortname: '',
+  disqusShortname: 'richardbertozzo',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: '',
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Posts',
       path: '/'
     },
     {
@@ -25,25 +25,15 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Richard Bertozzo',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Software Engineer. Interested and enthusiastic about microservices, software architecture, Golang, Node.Js, Artificial Intelligence.',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '',
-      vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
-      line: '',
-      gitlab: '',
-      weibo: '',
-      codepen: '',
-      youtube: '',
-      soundcloud: '',
+      email: 'richardjrbertozzo@gmail.com',
+      telegram: 'richardbertozzo',
+      twitter: 'richardbertozzo',
+      github: 'richardbertozzo',
+      linkedin: 'richardbertozzo',
     }
   }
 };
