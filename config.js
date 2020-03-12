@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'Richard Bertozzo',
     photo: '/photo.jpg',
-    bio: 'Software Engineer. Interested and enthusiastic about microservices, software architecture, Golang, Node.Js, Artificial Intelligence.',
+    bio: 'Software Engineer. Interested and enthusiastic about microservices, software architecture, Golang, Node.js, Artificial Intelligence.',
     contacts: {
       email: 'richardjrbertozzo@gmail.com',
       telegram: 'richardbertozzo',
