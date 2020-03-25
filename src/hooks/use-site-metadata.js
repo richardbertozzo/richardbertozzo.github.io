@@ -17,6 +17,7 @@ const useSiteMetadata = () => {
                 twitter
                 telegram
                 email
+                medium
               }
             }
             menu {

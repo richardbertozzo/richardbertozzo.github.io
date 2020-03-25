@@ -30,6 +30,7 @@ module.exports = {
       twitter: 'richardbertozzo',
       github: 'richardbertozzo',
       linkedin: 'richardbertozzo',
+      medium: 'richardbertozzo',
     }
   }
 };
