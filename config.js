@@ -27,7 +27,6 @@ module.exports = {
     contacts: {
       email: 'richardjrbertozzo@gmail.com',
       telegram: 'richardbertozzo',
-      twitter: 'richardbertozzo',
       github: 'richardbertozzo',
       linkedin: 'richardbertozzo',
       medium: 'richardbertozzo',
