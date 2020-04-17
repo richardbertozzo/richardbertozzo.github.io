@@ -1,15 +1,14 @@
 ---
-title: "About me"
-template: "page"
-socialImage: "/media/image-2.jpg"
+template: page
+title: About me
+socialImage: /media/image-2.jpg
+slug: about
+draft: false
 ---
+Software Engineer, focado em Back-end e arquitetura. Tentando aprender e conhecer um pouco sobre as fantásticas linguangens e tecnologias, com entusiasmo de estudar e fazer software com qualidade, simples e que seja entendível por humanos e pensando em sua arquitetura. Linguagem que utilizo principalmente é o [Go](https://golang.org/), pela sua simplicidade e benefícios.
 
-Software Engineer, focus in Backend. Graduate in Information System on UFSC. 
+Graduado em Sistemas de Informação (UFSC) e apaixonado por o lugar onde vivo, a ilha da magia, mais conhecida como [Florianópolis](https://pt.wikipedia.org/wiki/Florian%C3%B3polis):
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+![alt text](https://upload.wikimedia.org/wikipedia/commons/9/96/Florian%C3%B3polis_Collage.png "Florianópolis")
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
-
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
-
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+Blog para postar aprendizados e reflexões que talvez possam ajudar outros devs e coisas para o Richard do futuro :)
