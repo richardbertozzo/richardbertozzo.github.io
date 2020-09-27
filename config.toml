@@ -1,3 +1,83 @@
-baseURL = "http://example.org/"
+baseURL = "http://richardbertozzo.dev/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+paginate = 5
+theme = "ink"
+title = "Richard Bertozzo"
+
+copyright = "© Copyright"
+
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+pygmentsstyle = "vs"
+
+disqusShortname = "ink-blog"
+
+tags = [
+  "blog",
+  "responsive",
+  "personal",
+  "dev",
+  "minimalist",
+  "portfolio",
+  "dark",
+  "go",
+  "life",
+]
+
+[author]
+homepage = "https://richardbertozzo.dev"
+name = "Richard Bertozzo"
+
+[params]
+subtitle = "Dev and life blog daquele jeitao"
+
+# Optional 64x64 avatar image.
+avatar = "https://image.freepik.com/free-vector/young-man-head-with-beard-avatar-character_24877-36786.jpg"
+
+# Content types to disable Disqus on.
+disableDisqusTypes = ["page"]
+featherIconsCDN = true
+
+mode = "dark" # "dark" or "auto"
+# customCSS = "css/custom.css"  # Custom CSS applied to default styles.
+# customDarkCSS = "css/custom-dark.css"  # Custom styles applied to dark mode css.
+# customJS = ["js/custom.js", "js/custom1.js"]  # Custom JS scripts.
+
+# Nav.
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
+
+[[params.social]]
+icon = "github"
+name = "Github"
+url = "https://github.com/richardbertozzo"
+
+[[params.social]]
+icon = "linkedin"
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/richardbertozzo/"
+
+[[params.social]]
+icon = "rss"
+name = "RSS"
+url = "/index.xml"
+
+[taxonomies]
+tag = "tags"
