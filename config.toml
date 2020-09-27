@@ -29,7 +29,7 @@ homepage = "https://richardbertozzo.dev"
 name = "Richard Bertozzo"
 
 [params]
-subtitle = "Dev and life blog daquele jeitao"
+subtitle = "Writing code for human, dev and life blog"
 
 # Optional 64x64 avatar image.
 avatar = "https://image.freepik.com/free-vector/young-man-head-with-beard-avatar-character_24877-36786.jpg"
@@ -38,8 +38,8 @@ avatar = "https://image.freepik.com/free-vector/young-man-head-with-beard-avatar
 disableDisqusTypes = ["page"]
 featherIconsCDN = true
 
+customCSS = "css/custom.css" # Custom CSS applied to default styles.
 mode = "dark" # "dark" or "auto"
-# customCSS = "css/custom.css"  # Custom CSS applied to default styles.
 # customDarkCSS = "css/custom-dark.css"  # Custom styles applied to dark mode css.
 # customJS = ["js/custom.js", "js/custom1.js"]  # Custom JS scripts.
 
@@ -73,6 +73,16 @@ url = "https://github.com/richardbertozzo"
 icon = "linkedin"
 name = "LinkedIn"
 url = "https://www.linkedin.com/in/richardbertozzo/"
+
+[[params.social]]
+icon = "mail"
+name = "Email"
+url = "mailto:richardjrbertozzo@gmail.com"
+
+[[params.social]]
+icon = "send"
+name = "Telegram"
+url = "https://t.me/richardbertozzo"
 
 [[params.social]]
 icon = "rss"
