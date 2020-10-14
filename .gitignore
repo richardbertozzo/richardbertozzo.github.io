@@ -1,8 +1,19 @@
-node_modules/
-.cache/
-public/
-npm-debug.log
-.eslintcache
-.gatsby-context.js
+# Build
+public
+
+# IDE
+.vscode
 .idea
-gatsby-starter-lumen.iml
+
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
