@@ -29,10 +29,10 @@ homepage = "https://richardbertozzo.dev"
 name = "Richard Bertozzo"
 
 [params]
-subtitle = "Writing code for human, dev and life blog"
+subtitle = "Writing code for human | Dev and life blog"
 
 # Optional 64x64 avatar image.
-avatar = "https://image.freepik.com/free-vector/young-man-head-with-beard-avatar-character_24877-36786.jpg"
+avatar = "https://images.discordapp.net/avatars/300099580656353280/214d8a77de6ce68a6fffb27689bb6f73.png"
 
 # Content types to disable Disqus on.
 disableDisqusTypes = ["page"]
