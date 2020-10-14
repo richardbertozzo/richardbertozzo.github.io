@@ -1,13 +1,17 @@
+# Blog
+
+Dev and life blog. Build with [Hugo](https://gohugo.io/) and theme [hugo-ink](https://github.com/knadh/hugo-ink)
+
 ## Running
 
-You need to have the [Hugo](https://gohugo.io/) installed
+You need to have the [Hugo](https://gohugo.io/) installed.
 
-Start the server with reload
+Run:
 ```shell
-hugo server -D
+make run
 ```
 
-Build the statics files:
+Build:
 ```shell
-hugo -D
+make build
 ```
