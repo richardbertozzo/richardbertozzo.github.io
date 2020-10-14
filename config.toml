@@ -1,6 +1,7 @@
+baseURL = "https://richardbertozzo.github.io/"
 languageCode = "en-us"
 paginate = 5
-theme = "ink"
+theme = "hugo-ink"
 title = "Richard Bertozzo"
 
 copyright = "© Copyright"
