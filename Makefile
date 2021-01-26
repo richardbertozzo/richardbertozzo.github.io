@@ -7,6 +7,10 @@ run:
 
 ## build: Build the statics files
 build:
+	hugo --minify
+
+## build-draft: Build the statics files with draft posts
+build-draft:
 	hugo -D
 
 .PHONY: help
