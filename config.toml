@@ -31,14 +31,14 @@ name = "Richard Bertozzo"
 subtitle = "Writing code for human | Dev and life blog"
 
 # Optional 64x64 avatar image.
-avatar = "https://images.discordapp.net/avatars/300099580656353280/214d8a77de6ce68a6fffb27689bb6f73.png"
+avatar = "https://static-cdn.jtvnw.net/jtv_user_pictures/38607806-3ccc-46da-9fec-75b310aaa8a0-profile_image-300x300.png"
 
 # Content types to disable Disqus on.
 disableDisqusTypes = ["page"]
 featherIconsCDN = true
 
-customCSS = "css/custom.css" # Custom CSS applied to default styles.
 mode = "dark" # "dark" or "auto"
+customCSS = "css/custom.css" # Custom CSS applied to default styles.
 # customDarkCSS = "css/custom-dark.css"  # Custom styles applied to dark mode css.
 # customJS = ["js/custom.js", "js/custom1.js"]  # Custom JS scripts.
 
@@ -67,6 +67,11 @@ weight = 4
 icon = "github"
 name = "Github"
 url = "https://github.com/richardbertozzo"
+
+[[params.social]]
+icon = "twitch"
+name = "Twitch"
+url = "https://www.twitch.tv/richardbertozzo"
 
 [[params.social]]
 icon = "linkedin"
