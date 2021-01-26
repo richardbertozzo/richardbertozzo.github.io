@@ -69,6 +69,11 @@ name = "Github"
 url = "https://github.com/richardbertozzo"
 
 [[params.social]]
+icon = "twitch"
+name = "Twitch"
+url = "https://www.twitch.tv/richardbertozzo"
+
+[[params.social]]
 icon = "linkedin"
 name = "LinkedIn"
 url = "https://www.linkedin.com/in/richardbertozzo/"
