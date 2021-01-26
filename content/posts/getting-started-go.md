@@ -27,5 +27,4 @@ Compartilhando uma lista de materiais e links que usei e indico para aprender Go
 - [Comunidade do Go no Reddit](https://www.reddit.com/r/golang/) - Comunidade compartilha vários links e ocorre varias discussões sobre o assunto;
 - [Lista de impressionantes frameworks, pacotes e softwares em Go](https://github.com/avelino/awesome-go) - aqui podemos achar aquele pacote/modulo maroto que estava precisando ou procurando.
 
-Existem outros diversos meios e links como fonte de conhecimento, esses são alguns que conheço. Outra forma muito legal é seguir alguns perfis da comunidade no 
-LinkedIn.
+Existem outros diversos meios e links como fonte de conhecimento, esses são alguns que conheço. Outra forma muito legal é seguir alguns perfis da comunidade no LinkedIn.
