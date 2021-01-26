@@ -16,12 +16,12 @@ Compartilhando uma lista de materiais e links que usei e indico para aprender Go
 - [Go by example](https://gobyexample.com/) - introdução prática de exemplos feitos em Go, por exemplo: como fazer um Hello World ou if statement;
 - [Intro Go e comparação API REST com Node.js](https://medium.com/devmuch/intro-golang-e-comparacao-de-desempenho-de-api-com-node-js-11a8ce6bd5e0) - post que fiz um tempo atrás, quando estava iniciando os estudos com Go e brincando com a linguagem;
 - [Go Proverbs](https://go-proverbs.github.io/) - Talk do Rob Pìke (um dos criados da linguagem), falando um pouco filosofia, design e pensamento da linguagem;
-- [Ultimate Go](https://github.com/ardanlabs/gotraining/tree/master/topics/go#ultimate-go) - Material para qualquer desenvolvedor que já tenha experiência com alguma outra linguagem de programação e quer aprender mais sobre Go. Guias, pensamentos e filosofias sobre desenvolvimento focados em Go.
+- [Ultimate Go](https://github.com/ardanlabs/gotraining/tree/master/topics/go#ultimate-go) - Material para qualquer desenvolvedor que já tenha experiência com alguma outra linguagem de programação e quer aprender mais sobre Go. Guias, pensamentos e filosofias sobre desenvolvimento focado em Go.
 
 
 ## Mais meios de aprender e se integrar com a comunidade
 - Slack mundial da linguagem - Convite: https://invite.slack.golangbridge.org/
-    - Canais interessantes: `#brazil`, se está procurando emprego ou publicar alguma vaga `#jobs` ou `#jobs-remote`. Para a galera de Floripa, temos o `#floripa`;
+    - Canais interessantes: `#brazil` (canal para o Brasil), `#jobs` ou `#jobs-remote` (procurando ou quer publicar alguma vaga de emprego) e para a galera de Floripa, temos o `#floripa`;
 - [GoNotícias](https://gonoticias.substack.com/) - Newsletter semanal sobre Go em português;
 - [Go Full-Stack](https://www.getrevue.co/profile/IvanMarko) - Newsletter semanal FullStack com links e conteúdos de Go;
 - [Comunidade do Go no Reddit](https://www.reddit.com/r/golang/) - Comunidade compartilha vários links e ocorre varias discussões sobre o assunto;
